@@ -2,10 +2,10 @@
 English explaination further down.
 
 ## ユーザーデータ
-弊アプリは如何なる個人情報を取り扱いません。  
+弊アプリは如何なる個人情報も取り扱いません。  
 
 ## 機密情報へのアクセスに関する権限とAPI
-弊アプリは如何なる機密情報を取り扱いません。  
+弊アプリは如何なる機密情報も取り扱いません。  
 
 ## デバイスやネットワークでの不正行為
 弊アプリは Google の定める[アプリの中核品質に関するガイドライン](https://developer.android.com/docs/quality-guidelines/core-app-quality#listing)に従い、ユーザーのデバイスを妨害、破損、及びそれに無断でアクセスすることはありません。  
